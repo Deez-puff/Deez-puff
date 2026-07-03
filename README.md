@@ -1,115 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="710" height="112" viewBox="0 0 660 112">
-<style>
-@keyframes flicker {
-  0%,100%{ opacity: 0.18; }
-  45%{ opacity: 1; }
-  60%{ opacity: 1; }
-}
-.on { animation: flicker 2.6s ease-in-out infinite; }
-</style>
-
-<rect width="660" height="112" rx="8" fill="#0d1117"/>
-
-<!-- ═══ D ═══ -->
-<rect class="on" style="animation-delay:0.00s" x="10" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.04s" x="10" y="23" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.08s" x="10" y="36" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.12s" x="10" y="49" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.16s" x="10" y="62" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.20s" x="10" y="75" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.24s" x="10" y="88" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.04s" x="23" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.24s" x="23" y="88" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.08s" x="36" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.28s" x="36" y="88" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.12s" x="49" y="23" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.16s" x="49" y="36" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.20s" x="49" y="49" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.24s" x="49" y="62" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.28s" x="49" y="75" width="10" height="10" rx="2" fill="#39d353"/>
-
-<!-- ═══ E (1st) ═══ -->
-<rect class="on" style="animation-delay:0.10s" x="65" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.14s" x="65" y="23" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.18s" x="65" y="36" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.22s" x="65" y="49" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.26s" x="65" y="62" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.30s" x="65" y="75" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.34s" x="65" y="88" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.12s" x="78" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.14s" x="91" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.16s" x="104" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.22s" x="78" y="49" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.26s" x="91" y="49" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.34s" x="78" y="88" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.36s" x="91" y="88" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.38s" x="104" y="88" width="10" height="10" rx="2" fill="#39d353"/>
-
-<!-- ═══ E (2nd) ═══ -->
-<rect class="on" style="animation-delay:0.20s" x="120" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.24s" x="120" y="23" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.28s" x="120" y="36" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.32s" x="120" y="49" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.36s" x="120" y="62" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.40s" x="120" y="75" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.44s" x="120" y="88" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.22s" x="133" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.24s" x="146" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.26s" x="159" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.32s" x="133" y="49" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.36s" x="146" y="49" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.44s" x="133" y="88" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.46s" x="146" y="88" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.48s" x="159" y="88" width="10" height="10" rx="2" fill="#39d353"/>
-
-<!-- ═══ P ═══ -->
-<rect class="on" style="animation-delay:0.30s" x="175" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.34s" x="175" y="23" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.38s" x="175" y="36" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.42s" x="175" y="49" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.46s" x="175" y="62" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.50s" x="175" y="75" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.54s" x="175" y="88" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.32s" x="188" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.34s" x="201" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.36s" x="214" y="23" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.40s" x="214" y="36" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.42s" x="201" y="49" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.44s" x="188" y="49" width="10" height="10" rx="2" fill="#39d353"/>
-
-<!-- ═══ A ═══ -->
-<rect class="on" style="animation-delay:0.40s" x="230" y="23" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.44s" x="230" y="36" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.48s" x="230" y="49" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.52s" x="230" y="62" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.56s" x="230" y="75" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.60s" x="230" y="88" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.42s" x="243" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.48s" x="243" y="49" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.42s" x="256" y="23" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.46s" x="256" y="36" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.50s" x="256" y="49" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.54s" x="256" y="62" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.58s" x="256" y="75" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.62s" x="256" y="88" width="10" height="10" rx="2" fill="#39d353"/>
-
-<!-- ═══ K ═══ -->
-<rect class="on" style="animation-delay:0.50s" x="272" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.54s" x="272" y="23" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.58s" x="272" y="36" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.62s" x="272" y="49" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.66s" x="272" y="62" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.70s" x="272" y="75" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.74s" x="272" y="88" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.54s" x="285" y="36" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.58s" x="298" y="23" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.62s" x="311" y="10" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.62s" x="285" y="49" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.66s" x="285" y="62" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.70s" x="298" y="75" width="10" height="10" rx="2" fill="#39d353"/>
-<rect class="on" style="animation-delay:0.74s" x="311" y="88" width="10" height="10" rx="2" fill="#39d353"/>
-
-</svg>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89bb59e7-0b43-4282-a805-b9bcac0b1a19" />
 
 <h1 align="center">Hi there 👋, I'm Deepak Rajesh</h1>
@@ -135,5 +23,52 @@
 </p>
 
 <br>
+<div align="center">
+  <img src="deepak-github-header.svg" alt="DEEPAK" width="100%"/>
+</div>
+
+---
+
+<!-- 👆 That animated pixel art banner is your name in GitHub contribution-graph style -->
+
+<div align="center">
+
+### Hi there, I'm Deepak! 👋
+
+🎓 Developer · 🤖 AI Enthusiast · 🎮 Builder of Cool Things
+
+</div>
+
+---
+
+### 🚀 About Me
+
+- 🔭 Currently working on an **AI Hand Gesture Controlled Racing Game**
+- 🌱 Learning **Computer Vision · MediaPipe · Pygame**
+- 👯 Looking to collaborate on **AI / ML projects**
+- 💬 Ask me about **Python, OpenCV, Real-time AI**
+- 📫 Reach me at: **your@email.com**
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" width="48%"/>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=39d353&style=flat-square&label=Profile+Views"/>
+</div>
 
 
