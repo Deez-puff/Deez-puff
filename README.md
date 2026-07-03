@@ -43,11 +43,11 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on an **AI Hand Gesture Controlled Racing Game**
-- 🌱 Learning **Computer Vision · MediaPipe · Pygame**
-- 👯 Looking to collaborate on **AI / ML projects**
-- 💬 Ask me about **Python, OpenCV, Real-time AI**
-- 📫 Reach me at: **your@email.com**
+- Currently working on an **AI Hand Gesture Controlled Racing Game**
+- Learning **Computer Vision · MediaPipe · Pygame**
+- Looking to collaborate on **AI / ML projects**
+- Ask me about **Python, OpenCV, Real-time AI**
+- Reach me at: **deepakrajesh500@gmail.com**
 
 ---
 
