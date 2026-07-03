@@ -25,3 +25,8 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> 
   </a>
 </p>
+
+<div align="center">
+  <img src="./deepak-github-header.svg" alt="DEEPAK" width="200%"/>
+</div>
+
