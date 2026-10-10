@@ -1,6 +1,6 @@
 <div align="center"> 
   <img src="./deepak-github-header.svg" alt="DEEPAK" width="200%"/>
-</div>
+</div> 
  
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89bb59e7-0b43-4282-a805-b9bcac0b1a19" />
 
